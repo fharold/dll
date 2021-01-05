@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 6
 Title ""
 Date ""
 Rev ""
@@ -170,5 +170,11 @@ S 6500 8900 3200 950
 U 5FEF8508
 F0 "lamp60" 50
 F1 "lamp60.sch" 50
+$EndSheet
+$Sheet
+S 5800 -5650 3100 1250
+U 5FEF9579
+F0 "driver-v2" 50
+F1 "driver-v2/driver-v2.sch" 50
 $EndSheet
 $EndSCHEMATC
